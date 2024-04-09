@@ -8,5 +8,6 @@
         "robot": true
       }
     }
-  ]
+  ],
+  "image": "heroku/ruby"
 }
