@@ -9,5 +9,8 @@
       }
     }
   ],
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-ruby" }
+  ],
   "image": "heroku/ruby"
 }
