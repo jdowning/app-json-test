@@ -1,0 +1,12 @@
+{
+  "name": "justin-test",
+  "addons": [
+    {
+      "plan": "heroku-postgresql:standard-0",
+      "as": "ROBOTO",
+      "options": {
+        "robot": true
+      }
+    }
+  ]
+}
